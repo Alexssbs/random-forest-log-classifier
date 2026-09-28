@@ -73,7 +73,6 @@ El proyecto utiliza el dataset **Android_v1** de la colección **Loghub**, que c
 
 ## 🏗️ Arquitectura
 
-```mermaid
 graph LR
     A[📂 Logs Android] --> B[🧹 Normalización y Limpieza]
     B --> C[🔧 Extracción de Features]
